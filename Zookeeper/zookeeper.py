@@ -119,9 +119,6 @@ Switching on camera from habitat with rabbits...
 It seems there will be more rabbits soon!"""
 
 animals = [camel, lion, deer, goose, bat, rabbit]
-
-# write your code here
-
 exit_trigger = True
 while exit_trigger:
     num_req = input('Which habitat # do you need?')
